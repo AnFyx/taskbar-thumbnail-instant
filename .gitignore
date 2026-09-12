@@ -1,0 +1,7 @@
+.vscode/
+.idea/
+*.dll
+*.obj
+*.pdb
+Thumbs.db
+.DS_Store
